@@ -1,40 +1,38 @@
-# Form Validation Projekat
+# Form Validation Project
 
-Predstavlja jednostavnu validaciju forme pomoću JavaScript-a. Cilj projekta je da demonstrira osnovne tehnike validacije korisničkog unosa u formama korišćenjem HTML-a, CSS-a i JavaScript-a.
+This project demonstrates simple form validation using JavaScript. The goal is to showcase basic techniques for validating user input in forms using HTML, CSS, and JavaScript.
 
-##LINK: https://loginforma11-11.netlify.app/
+## LINK: https://loginforma11-11.netlify.app/
 
-## Funkcionalnosti
+## Features
 
-- **Validacija Unosa:**
+- **Input Validation:**
 
-  - Provera da li su obavezna polja popunjena.
-  - Validacija email adrese prema standardnom formatu.
-  - Provera minimalnog i maksimalnog broja karaktera za lozinku.
-  - Provera podudarnosti lozinki (npr. prilikom kreiranja naloga).
+  - Check if required fields are filled out.
+  - Validate email addresses according to standard format.
+  - Verify minimum and maximum character count for passwords.
+  - Confirm password matching (e.g., during account creation).
 
-- **Dinamicki Prikaz Grešaka:**
+- **Dynamic Error Display:**
 
-  - Greške se prikazuju odmah ispod relevantnih polja u formi.
-  - Korisniku se pruža povratna informacija o tome šta je potrebno ispraviti.
+  - Errors are shown immediately below the relevant fields in the form.
+  - Users receive feedback on what needs to be corrected.
 
-- **CSS Stilizacija:**
-  - Polja sa greškom su označena crvenim okvirom.
-  - Uspešno popunjena polja imaju zelenu oznaku.
+- **CSS Styling:**
 
-## Tehnologije Korišćene
+  - Fields with errors are highlighted with a red border.
+  - Successfully filled fields have a green indicator.
 
-- **HTML**: Za strukturu forme i polja unosa.
-- **CSS**: Za stilizovanje forme, uključujući validaciju polja.
-- **JavaScript**: Za dinamicku validaciju unosa i prikazivanje grešaka korisniku.
+## Technologies Used
 
+- **HTML**: For structuring the form and input fields.
+- **CSS**: For styling the form, including validation indicators.
+- **JavaScript**: For dynamic form validation and error display.
 
-## Struktura Projekta
+## Project Structure
 
-- **index.html**: Sadrži formu i osnovnu strukturu stranice.
-- **style.css**: Definiše stilove za formu i vizuelne indikatore validacije.
-- **script.js**: Sadrži logiku za validaciju forme u realnom vremenu.
-
-
+- **index.html**: Contains the form and basic page structure.
+- **style.css**: Defines styles for the form and visual validation indicators.
+- **script.js**: Contains the logic for real-time form validation.
 
 ![Form validation](photo/formValidation.png)
