@@ -2,6 +2,8 @@
 
 Predstavlja jednostavnu validaciju forme pomoću JavaScript-a. Cilj projekta je da demonstrira osnovne tehnike validacije korisničkog unosa u formama korišćenjem HTML-a, CSS-a i JavaScript-a.
 
+##LINK: https://loginforma11-11.netlify.app/
+
 ## Funkcionalnosti
 
 - **Validacija Unosa:**
