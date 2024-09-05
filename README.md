@@ -26,10 +26,6 @@ Predstavlja jednostavnu validaciju forme pomoću JavaScript-a. Cilj projekta je 
 - **CSS**: Za stilizovanje forme, uključujući validaciju polja.
 - **JavaScript**: Za dinamicku validaciju unosa i prikazivanje grešaka korisniku.
 
-## Kako Pokrenuti Projekat
-
-1. Klonirajte ovaj repozitorijum na svoj lokalni računar.
-2. Otvorite `index.html` u svom omiljenom pregledaču.
 
 ## Struktura Projekta
 
@@ -37,14 +33,6 @@ Predstavlja jednostavnu validaciju forme pomoću JavaScript-a. Cilj projekta je 
 - **style.css**: Definiše stilove za formu i vizuelne indikatore validacije.
 - **script.js**: Sadrži logiku za validaciju forme u realnom vremenu.
 
-## Buduće Nadogradnje
 
-- Dodavanje više tipova validacije (npr. validacija telefonskog broja).
-- Omogućavanje slanja podataka na server nakon uspešne validacije.
-- Poboljšanje korisničkog interfejsa sa naprednijim CSS stilovima.
-
-## Zaključak
-
-Ovaj projekat pruža osnovne funkcionalnosti validacije forme koristeći JavaScript, HTML i CSS. Idealan je za početnike koji žele da nauče kako validacija funkcioniše u front-end razvoju.
 
 ![Form validation](photo/formValidation.png)
